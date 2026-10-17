@@ -79,6 +79,6 @@ graph TD
 
 ## 👤 Author & Contact
 
-* **GitHub:** [@username](https://github.com/username)
-* **LinkedIn:** [Profil LinkedIn Anda](https://linkedin.com/in/username)
-* **Email:** email.anda@domain.com
+* **GitHub:** [@alvitoprasetyo](https://github.com/alvitoprasetyo)
+* **LinkedIn:** [Alvito Prasetyo](https://linkedin.com/in/alvitoprasetyo)
+* **Email:** mail.alvitoprasetyo@gmail.com
